@@ -1,7 +1,7 @@
 {
   "name": "@ghoul007\/screenshoot",
   "bin": "./index.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -9,7 +9,7 @@
     "url": "git+https://github.com/ghoul007/screenshot"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish": "npm publish --scope=ghoul007 --access public"
   },
   "keywords": ["screenshot", "url"],
   "author": "Ahmed Ghoul",
