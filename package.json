@@ -1,0 +1,17 @@
+{
+  "name": "@ghoul007\/screenshoot",
+  "bin": "./index.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ahmed GHoul",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^5.0.0",
+    "puppeteer": "^2.1.1"
+  }
+}
